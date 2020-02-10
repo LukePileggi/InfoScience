@@ -42,3 +42,11 @@ def setup():
     circle(450, 300, 50)
     circle(450, 450, 50)
 ```
+
+2/10
+1. What did we do?
+- We made a working dice and messed with the odds.
+2. What did we learn?
+- The random feature is really convenient. I can use it in many programs. Also, I learned that I have **bad luck**
+3.What questions do you have?
+- What is the best way to guess the odds of the dice in a case like today's class?
