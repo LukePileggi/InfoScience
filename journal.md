@@ -25,7 +25,7 @@ triangle(25, 75, 27, 65, 71, 75);
 3.What questions do you have?
 - Do I have to remember all the things I learned today? I forgot half of the programs that we used today already.
 
-#Homework: making a dice with a square and seven circles
+#Homework: Making a dice with a square and seven circles
 This was easy after how to place shapes in coordinates.
 
 ```.py
@@ -50,3 +50,14 @@ def setup():
 - The random feature is really convenient. I can use it in many programs. Also, I learned that I have **bad luck**
 3.What questions do you have?
 - What is the best way to guess the odds of the dice in a case like today's class?
+
+2/20
+1. What did we do?
+- We made an optical illusion using coding.
+2. What did we learn?
+- We learned if we can code we can trick people.
+3.What questions do you have?
+- I couldn't finish the code because the pace was too fast. Prehaps we could slow the pace of the class a bit?
+
+#Homweork: Find an optical illusion you could make using coding
+Ebbinghaus-illusion.jpg
