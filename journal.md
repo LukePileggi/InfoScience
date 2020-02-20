@@ -60,4 +60,4 @@ def setup():
 - I couldn't finish the code because the pace was too fast. Prehaps we could slow the pace of the class a bit?
 
 #Homweork: Find an optical illusion you could make using coding
-Ebbinghaus-illusion.jpg
+https://en.wikipedia.org/wiki/Ebbinghaus_illusion
