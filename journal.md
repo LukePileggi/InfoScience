@@ -61,3 +61,46 @@ def setup():
 
 #Homweork: Find an optical illusion you could make using coding
 https://en.wikipedia.org/wiki/Ebbinghaus_illusion
+
+2/2
+1. What did we do?
+- We presented the optical illusions we made for homework.
+2. What did we learn?
+- Citing is important!
+3.What questions do you have?
+- No questions:)
+
+The Ebbinghaus illusion code!
+
+```.py
+x = 220
+
+def mouseClicked():
+    fill(255)
+    global x
+    x += 5
+
+def setup():
+    size(800,800)
+    background(255)
+    
+def draw():
+    background(255)
+    global x
+    fill(0)
+    circle(100, 400, 100)
+    circle(340, 400, 100)
+    circle(160, 296, 100)
+    circle(280, 296, 100)
+    circle(160, 504, 100)
+    circle(280, 504, 100)
+    circle(520, 400, 40)
+    circle(640, 400, 40)
+    circle(550, 348, 40)
+    circle(610, 348, 40)
+    circle(550, 452, 40)
+    circle(610, 452, 40)
+    fill(255)
+    circle(580, 400, 60)
+    circle(x, 400, 60)
+```
