@@ -68,7 +68,7 @@ https://en.wikipedia.org/wiki/Ebbinghaus_illusion
 2. What did we learn?
 - Citing is important!
 3.What questions do you have?
-- No questions:)
+- No questions :)
 
 The Ebbinghaus illusion code!
 
