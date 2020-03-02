@@ -104,3 +104,11 @@ def draw():
     circle(580, 400, 60)
     circle(x, 400, 60)
 ```
+
+3/2
+1. What did we do?
+- We used the new circuit website.
+2. What did we learn?
+- We learned a new website.
+3.What questions do you have?
+- No questions!
