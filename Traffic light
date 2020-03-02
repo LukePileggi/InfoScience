@@ -1,4 +1,6 @@
-``` 意味わかんないのだが？？？
+# Traffic light
+
+``` .c
 void setup()
 {
   pinMode(13, OUTPUT);
