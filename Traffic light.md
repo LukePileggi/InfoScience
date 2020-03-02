@@ -19,4 +19,4 @@ void loop()
 The image of the circuit is shown in fig.1
 
 ![Circuit](Circuit.png)
-Fig.1 circuit used for the traffic light
+Fig.1 Circuit used for the traffic light
