@@ -112,3 +112,11 @@ def draw():
 - We learned a new website.
 3.What questions do you have?
 - No questions!
+
+3/12
+1. What did we do?
+- We used LEDs and other stuff and made it work with programing.
+2. What did we learn?
+- We learned how to use the program to light up LEDs.
+3.What questions do you have?
+- No questions.
